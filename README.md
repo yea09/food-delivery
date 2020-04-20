@@ -858,3 +858,13 @@ Request/Response 방식으로 구현하지 않았기 때문에 서비스가 더�
         **/
     }
 ```
+
+
+### 참고 동영상
+
+#### 클러스터에 kafka 설치
+https://youtu.be/dvu5UBBohEk  
+
+#### 어플리케이션의 패키징과 클러스터 배포
+https://youtu.be/N9szX9RL6Cw  
+
