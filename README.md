@@ -847,7 +847,7 @@ Request/Response 방식으로 구현하지 않았기 때문에 서비스가 더�
     @PostPersist
     public void onPostPersist(){
 
-        /**
+        /** pay 시스템이 Retire 되면 app 또한 영향을 받음
         fooddelivery.external.결제이력 pay = new fooddelivery.external.결제이력();
         pay.setOrderId(getOrderId());
         
