@@ -868,6 +868,3 @@ https://youtu.be/dvu5UBBohEk
 #### 어플리케이션의 패키징과 클러스터 배포
 https://youtu.be/N9szX9RL6Cw  
 
-
-
-![image](https://user-images.githubusercontent.com/35618409/100953389-dceddb00-3555-11eb-99fb-2fdbe668b8c9.png)
